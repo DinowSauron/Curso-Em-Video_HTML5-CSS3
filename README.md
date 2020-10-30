@@ -6,9 +6,6 @@ Para deixar claro logo no inicio, eu realizei este curso para reforçar meus con
 
 Curso ainda em progresso.
 
----
-
-
 
 ---
 # Módulo 01 - Primeiros passos HTML+CSS
