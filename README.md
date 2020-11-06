@@ -8,24 +8,24 @@ Curso ainda em progresso.
 
 
 ---
-# Módulo 01 - Primeiros passos HTML+CSS
+# Módulo 01 - Primeiros passos HTML+CSS (6 Capitulos)
     Conceitos basicos, preparação do ambiente, semântica do HTML5, textos, titulos, ligações, multimidia, estilos.
    
 --- 
-# Módulo 02 - Design Web
+# Módulo 02 - Design Web (x Capitulos)
     Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade.
 
 
 ---
-# Módulo 03 - Prototipo de site
+# Módulo 03 - Prototipo de site (x Capitulos)
     Versionamento de software, hospedagem de sites estáticos, tabelas.
 
 
 ---
-# Módulo 04 - Obtendo mais conhecimento
+# Módulo 04 - Obtendo mais conhecimento (x Capitulos)
     Quadros em linha, formulários, media queries, mobile first.
 
 
 ---
-# Módulo 05 - Novas Tecnologias
+# Módulo 05 - Novas Tecnologias (x Capitulos)
     Flexbox, Grid Layout, projeto final.
