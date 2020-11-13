@@ -29,3 +29,13 @@ Curso ainda em progresso.
 ---
 # Módulo 05 - Novas Tecnologias (x Capitulos)
     Flexbox, Grid Layout, projeto final.
+
+
+---
+
+## Conteudos Adicionais:
+
+* Gimp > Editor de imagens.
+* Unsplash > Imagens Gratuitas.
+* flaticon > Svg gratuitos.
+* favicon (.cc e .io) > criador de .icon 
