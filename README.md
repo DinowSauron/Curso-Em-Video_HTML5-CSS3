@@ -39,3 +39,4 @@ Curso ainda em progresso.
 * Unsplash > Imagens Gratuitas.
 * flaticon > Svg gratuitos.
 * favicon (.cc e .io) > criador de .icon 
+* SEO - Verificar
