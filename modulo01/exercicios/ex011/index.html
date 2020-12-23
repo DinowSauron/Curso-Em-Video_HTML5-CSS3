@@ -6,6 +6,14 @@
     <title>Imagens Dinâmicas</title>
 </head>
 <body>
+    <h1>Imagem dinâmica</h1>
+    <p>abra em dispositivos diferentes, ou mude o zoom do seu navegador!</p>
     
+    <picture>
+        <!-- Sempre coloque isto em cima de png, ele pdoe se acumular colocando u mem cima do outro -->
+        <!-- <source media="(min-width: 1550px)" srcset="img/big-g.png" type="image/png"> -->
+        <source media="(min-width: 1050px)" srcset="img/g.png" type="image/png">
+        <img src="img/p.png" alt="Imagem Grande">
+    </picture>
 </body>
 </html>
