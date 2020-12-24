@@ -15,5 +15,15 @@
         <source media="(min-width: 1050px)" srcset="img/g.png" type="image/png">
         <img src="img/p.png" alt="Imagem Grande">
     </picture>
+
+    <h1>Reproduzindo audio</h1>
+    <!-- <audio src="midia/zombie.wav" controls></audio> -->
+    <!-- MP3 Wav OGG -->
+    <audio preload="metadata" controls loop>
+        <source src="midia/zombie.wav" type="audio/wav"> <!-- Evite arquivos .wav -->
+        <!-- <source src="midia/zombie.ogg" type="audio/ogg"> -->
+        <!-- <source src="midia/zombie.mp3" type="audio/mpeg"> -->
+        <p>Infelizmente não foi possível reproduzir o audio. <a href="midia/zombie.wav">Clique aqui e faça o download</a></p>
+    </audio>
 </body>
 </html>
