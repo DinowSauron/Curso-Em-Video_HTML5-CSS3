@@ -40,3 +40,4 @@ Curso ainda em progresso.
 * flaticon > Svg gratuitos.
 * favicon (.cc e .io) > criador de .icon 
 * SEO - Verificar
+* HandBrake - Software de converter videos
