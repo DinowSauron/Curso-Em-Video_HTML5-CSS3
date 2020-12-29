@@ -41,3 +41,4 @@ Curso ainda em progresso.
 * favicon (.cc e .io) > criador de .icon 
 * SEO - Verificar
 * HandBrake - Software de converter videos
+* Vimeo - Hospedagem de video privado.
