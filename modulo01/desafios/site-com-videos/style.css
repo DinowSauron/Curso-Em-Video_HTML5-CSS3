@@ -1,0 +1,33 @@
+html{
+    background: #1f1f1f;
+    color: #fff;
+    font-family: Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+    position: relative;
+    display: block;
+    margin: auto;
+    /* background: #5a5a5a; */
+    width: 800px;
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    text-align: center;
+}
+.container a{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+.container .videos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.container .videos a{
+    margin: 2px 5px;
+}
